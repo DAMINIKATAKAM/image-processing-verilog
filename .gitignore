@@ -1,0 +1,6 @@
+build/
+output/
+*.vcd
+*.fst
+*.out
+.DS_Store
